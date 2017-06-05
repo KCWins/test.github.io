@@ -9,6 +9,6 @@ body{
 
 p {font-size: 12pt; color: Black;}
 
-#column_one {float: left; padding: 1%; background-color: white}
+#column_one {float: left; padding: 1%; background-color: white; color: black;}
 
-#column_two {float: right; padding: 1%; background-color: Black; color: white;}
+#column_two {float: right; padding: 1%; background-color: black; color: white;}
