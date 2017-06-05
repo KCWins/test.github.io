@@ -6,6 +6,6 @@ body{
   background-color: grey;
 }
 
-#column_one {float: left; padding: 1%; background-color: white; color: black;}
+#column_one {float: left; padding: 1%; background-color: white; color: black; width: 300px;}
 
-#column_two {float: padding: 1%; background-color: black; color: white;}
+#column_two {float: right; padding: 0%; background-color: black; color: white; width: 500px;}
