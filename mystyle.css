@@ -1,0 +1,14 @@
+h1 {
+  text-decoration: underline;
+  background-color: black;
+  color: white;}
+body{
+  background-color: grey;
+}
+
+
+p {font-size: 12pt; color: Black;}
+
+#column_one {float: left; padding: 1%; background-color: white}
+
+#column_two {float: right; padding: 1%; background-color: Black; color: white;}
